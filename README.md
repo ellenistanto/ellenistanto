@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 # Hi, I'm Ellen 👋<br><br>🎓 Informatics Student<br>💻 Aspiring AI / Machine Learning Developer<br>📸 Freelance Photographer
 
 
