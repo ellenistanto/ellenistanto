@@ -1,5 +1,5 @@
 # About Me:
-# Hi, I'm Ellen 👋<br><br>🎓 Informatics Student<br>💻 Machine Learning & Web Developer<br>📸 Freelance Photographer
+# Hi, I'm Ellen 👋
 
 
 ## 🌐 Socials:
